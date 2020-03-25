@@ -34,6 +34,6 @@ If some programming languages claim to be the "Swiss Army Knife of Programming",
 
 ___
 
-PicoLisp is one of the best kept secrets of development.  It includes a database, web application framework, and a Prolog engine all as part of the language. Now it's available in a container for OS agnostic development.  I chose Tinycore to keep in line with some of PicoLisp's values of small and simple.
+PicoLisp is one of the best kept secrets of development.  It includes a database, web application framework, and a Prolog engine all as part of the language. Now it's available in a container for OS agnostic development.  I chose Alpine Linux to keep in line with some of PicoLisp's values of small and simple.
 
 **Happy hacking!**
